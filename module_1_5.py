@@ -1,3 +1,4 @@
+# some comment
 example='Топинамбур'
 print(example[0])
 print(example[-1])
