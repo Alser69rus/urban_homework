@@ -1,5 +1,5 @@
-from true_math import divide as true_divide
-from fake_math import divide as fake_divide
+from module_1.true_math import divide as true_divide
+from module_1.fake_math import divide as fake_divide
 
 if __name__ == "__main__":
     result1 = fake_divide(69, 3)
